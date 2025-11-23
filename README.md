@@ -36,7 +36,8 @@ print(x)
 
 ## Output:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b66c946b-d1c6-49f2-8635-29549048805d" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba84bfc2-7a73-4309-a3a4-fda3117c0721" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a3f27d0-ce2e-4b07-a855-d7f3240f5c18" />
+
 
 
 
